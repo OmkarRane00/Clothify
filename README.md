@@ -10,4 +10,4 @@ Admin panel consists of pages from where you can add categories, products, etc.
 It also has different acces as admin as well as user.
 
 # Technologies
-It uses jquery for most of its transitions. And HTML5 and CSS3 for rest of it.
+It uses jquery for most of its transitions and Bootstrap4 for css. And HTML5 and CSS3 for rest of it.
